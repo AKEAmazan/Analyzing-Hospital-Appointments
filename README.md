@@ -1,1 +1,1 @@
-# Analyzing-Hospital-Appointments
+# Analyzing Hospital Appointments
